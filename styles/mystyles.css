@@ -13,7 +13,7 @@ body
 header, main, footer
 	{
 	max-width: 62.5em; /* 62.5em = 1000px */
-	margin-left: auto;
+	margin-left: 50px;
 	margin-right: auto; 
 	}
 			
